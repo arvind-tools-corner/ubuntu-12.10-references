@@ -1,0 +1,57 @@
+#sqlite3
+sudo apt-get install sqlite3 libsqlite3-dev
+sudo gem install sqlite3-ruby
+
+#skype
+sudo apt-get install libqt4-dbus:i386 libqt4-network:i386 libqt4-xml:i386 libqtcore4:i386 libqtgui4:i386 libqtwebkit4:i386 sni-qt:i386
+sudo apt-get install skype
+
+#install open jdk command:
+sudo apt-get install openjdk-7-jdk
+
+#download git
+apt-get download git
+
+#install git commnd
+sudo apt-get install git
+
+#git-core url (source code)
+http://git-core.googlecode.com/files/git-1.8.4.2.tar.gz
+
+#oracle jdk
+download.oracle.com/otn-pub/java/jdk/7u45-b18/jdk-7u45-linux-i586.tar.gz
+
+#7zip
+sudo apt-get install p7zip-full p7zip-rar
+
+#cmake
+wget "http://www.cmake.org/files/v2.8/cmake-2.8.12.1-Linux-i386.sh"
+
+#virtual box
+download.virtualbox.org/virtualbox/4.3.2/virtualbox-4.3_4.3.2-90405~Ubuntu~quantal_i386.deb
+
+#flash-player plugin
+sudo apt-get install gnash
+
+#chromium
+sudo apt-get install chromium-browser
+
+#download chromium
+apt-get download chromium-browser
+
+#multiget (Download manager)
+sudo apt-get install multiget
+
+#Dia (Diagram editor)
+sudo apt-get install dia
+
+#Inkscape (Vector Illustrator)
+sudo apt-get install inkscape
+
+#virtualbox
+sudo apt-get install virtualbox
+
+#filezilla
+wget "http://cdn.mirror.garr.it/sf/project/flezilla/FileZilla_Client/3.7.3/FileZilla_3.7.3_i586-linux-gnu.tar.bz2"
+
+
