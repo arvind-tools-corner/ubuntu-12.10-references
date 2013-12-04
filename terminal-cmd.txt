@@ -16,3 +16,6 @@ sudo apt-get install <package>
 #un-install a file
 sudo apt-get remove <package>
 
+#adding new repo
+sudo add-apt-repository ppa:<path>
+

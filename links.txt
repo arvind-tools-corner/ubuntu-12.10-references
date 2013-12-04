@@ -1,0 +1,12 @@
+#list of ubuntu 12.10 (qunatal) package
+http://packages.ubuntu.com/quantal/
+
+#fb messenger
+http://www.noobslab.com/2013/07/fb-messenger-and-facebook-applications.html?m=1
+
+#firebug
+http://getfirebug.com/releases/firebug/1.10/firebug-1.10.0.xpi
+
+#getting started with php
+http://www.jeremymorgan.com/tutorials/linux/how-to-install-apache-php-and-mysql-on-ubuntu-12-dot-10-quantal-quetzal/
+
