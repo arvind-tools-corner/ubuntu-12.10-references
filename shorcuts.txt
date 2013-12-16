@@ -1,0 +1,13 @@
+#create file/folder shorcut
+Ctrl + Shift + Drag File
+
+#open terminal
+Ctrl + Alt + T
+
+#open terminal tab, if terminal already opened
+Ctrl + Shift + T
+
+#open file explorer
+Window key + 1
+
+

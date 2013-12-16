@@ -28,13 +28,14 @@ wget "http://www.cmake.org/files/v2.8/cmake-2.8.12.1-Linux-i386.sh"
 download.virtualbox.org/virtualbox/4.3.2/virtualbox-4.3_4.3.2-90405~Ubuntu~quantal_i386.deb
 
 #flash-player plugin
-sudo apt-get install gnash
+#sudo apt-get install gnash
+sudo apt-get install adobe-flashplugin
 
 #chromium
-sudo apt-get install chromium-browser
+#sudo apt-get install chromium-browser
 
 #download chromium
-apt-get download chromium-browser
+#apt-get download chromium-browser
 
 #multiget (Download manager)
 sudo apt-get install multiget
@@ -61,4 +62,6 @@ sudo apt-get install lamp-server^
 #sql gui front-end
 sudo apt-get install phpmyadmin
 
+#hot terminal
+sudo apt-get install nautilus-open-terminal
 
