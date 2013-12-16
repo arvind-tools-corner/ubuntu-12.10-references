@@ -65,3 +65,7 @@ sudo apt-get install phpmyadmin
 #hot terminal
 sudo apt-get install nautilus-open-terminal
 
+#google calendar
+sudo add-apt-repository ppa:atareao/atareao
+sudo apt-get update; sudo apt-get install calendar-indicator;
+
