@@ -19,3 +19,10 @@ sudo apt-get remove <package>
 #adding new repo
 sudo add-apt-repository ppa:<path>
 
+#release lock
+sudo rm -f  /var/lib/apt/lists/lock;
+sudo rm -f /var/lib/dpkg/lock;
+
+#list apt running process
+ps aux | grep apt | grep -v 'grep';
+
