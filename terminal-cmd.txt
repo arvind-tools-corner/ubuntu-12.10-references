@@ -26,3 +26,7 @@ sudo rm -f /var/lib/dpkg/lock;
 #list apt running process
 ps aux | grep apt | grep -v 'grep';
 
+#add user to sudo group
+sudo usermod -a -G sudo sharma;
+#note: logoff to apply changes
+
