@@ -69,7 +69,7 @@ sudo apt-get install nautilus-open-terminal
 sudo apt-get install basex
 
 #liberbase-office
-sudo apt-get install liberbase-office;
+sudo apt-get install libreoffice-base;
 
 #uudecode
 sudo apt-get install sharutils;
