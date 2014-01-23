@@ -74,3 +74,13 @@ sudo apt-get install libreoffice-base;
 #uudecode
 sudo apt-get install sharutils;
 
+#mp3 / wav
+sudo apt-get install lame;
+sudo apt-get install mpg123;
+
+#gui git viewer
+sudo apt-get install qgit;
+
+# text compare
+sudo apt-get install meld;
+
